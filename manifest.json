@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "version": "1.0.6",
-  "name": "Instagram Downloader",
-  "description": "The Instagram Downloader lets you download Instagram content from public accounts — Video, Photos, Reels, Stories, and Highlights.",
+  "name": "Post Downloader",
+  "description": "The Post Downloader lets you download Instagram content from public accounts — Video, Photos, Reels, Stories, and Highlights.",
   "icons": {
     "16": "static/icon/icon-16.png",
     "32": "static/icon/icon-32.png",
@@ -12,7 +12,7 @@
     "256": "static/icon/icon-256.png"
   },
   "action": {
-    "default_title": "Instagram Downloader",
+    "default_title": "Post Downloader",
     "default_popup": "main.html",
     "default_icon": {
       "16": "static/icon/icon-16.png",
